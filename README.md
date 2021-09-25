@@ -1,8 +1,8 @@
 ### Hi there 👋, Myself Shadman Shariar 😃
 #### 🏛 Bachelor of Science in Computer Science and Engineering at North South University
-Competitive Programmer // Software Developer // Web Developer
+// Competitive Programmer // Software Developer // Web Developer //
 
-Skills: JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
+Skills : JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
 
 - 🥇 I’m currently working on Advance Problem Solving Techniques 
 - 🥇 I’m currently learning Advance Data Structures and Algorithms 
@@ -19,7 +19,6 @@ Skills: JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar)  
