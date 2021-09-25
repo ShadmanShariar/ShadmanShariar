@@ -1,5 +1,5 @@
 ### Hi there 👋, Myself Shadman Shariar
-#### Bachelor of Science in Computer Science and Engineering at North South University
+- 🏛 #### Bachelor of Science in Computer Science and Engineering at North South University
 Competitive Programmer // Software Developer // Web Developer
 Skills: JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
 - 🥇 I’m currently working on Advance Problem Solving Techniques 
