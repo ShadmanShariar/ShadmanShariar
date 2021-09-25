@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Shadman Shariar
 #### Bachelor of Science in Computer Science and Engineering at North South University
-![Bachelor of Science in Computer Science and Engineering at North South University](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/82109245_2458147891121543_8114181382449659904_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=19026a&_nc_ohc=ptC6NAFw8Z4AX91TkQF&_nc_ht=scontent.fdac27-1.fna&oh=116a3c25d5e68bf87514e87ea7ea4cd5&oe=6176A4C1)
+![Bachelor of Science in Computer Science and Engineering at North South University]
 
 Competitive Programmer // Software Developer // Web Developer
 
