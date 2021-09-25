@@ -4,11 +4,11 @@
 
 Skills : JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
 
-- 🥇 I’m currently working on Advance Problem Solving Techniques 
-- 🥇 I’m currently learning Advance Data Structures and Algorithms 
-- 🥇 I’m looking to collaborate on GitHub 
-- 🥇 Ask me about Problem Solving Strategies 
-- 🥇 How to reach me: shadmanshariar007@gmail.com 
+- 🥇 I’m currently working on Advance Problem Solving Techniques ✔️
+- 🥇 I’m currently learning Advance Data Structures and Algorithms ✔️
+- 🥇 I’m looking to collaborate on GitHub ⚡
+- 🥇 Ask me about Problem Solving Strategies 🎡
+- 🥇 How to reach me: shadmanshariar007@gmail.com 📩
 - 🥇 Fun fact : If I could have any superpower, It would be a Legendary Grandmaster 🏆
 
 
