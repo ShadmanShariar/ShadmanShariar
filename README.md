@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, Myself Shadman Shariar 😃</h1>
-🏛 Bachelor of Science in Computer Science and Engineering at North South University
+<h1 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h1>
 // Competitive Programmer // Software Developer // Web Developer //
 
 Skills : JAVA / C / C++ / Python / HTML / CSS / PHP / SQL
