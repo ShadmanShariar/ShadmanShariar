@@ -1,4 +1,4 @@
-### Hi there 👋, Myself Shadman Shariar 😃
+<h1 align="center">### Hi there 👋, Myself Shadman Shariar 😃</h1>
 #### 🏛 Bachelor of Science in Computer Science and Engineering at North South University
 // Competitive Programmer // Software Developer // Web Developer //
 
