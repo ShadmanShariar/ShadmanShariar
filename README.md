@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋, Myself Shadman Shariar 😃</h1>
+<h1 align="center">Hi there 👋, This is Shadman Shariar 😃</h1>
 <h3 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h3>
-<h4 Competitive Programmer // Software Developer // Web Developer //</h3>
-
+- 🥇 Skills : Competitive Programmer // Software Developer // Web Developer
 - 🥇 Skills : JAVA / Python / C++ / C / HTML / CSS / PHP / SQL
 - 🥇 I’m currently working on Advance Problem Solving Techniques 👨‍💻
 - 🥇 I’m currently learning Advance Data Structures and Algorithms 📕
