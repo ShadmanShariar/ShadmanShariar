@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, This is Shadman Shariar 😃</h1>
 <h3 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h3>
 
-- 🥇 Skills : Competitive Programmer // Software Developer // Web Developer
+- 🥇 Competitive Programmer / Software Developer / Web Developer
 - 🥇 Skills : JAVA / Python / C++ / C / HTML / CSS / PHP / SQL
-- 🥇 I’m currently working on Advance Problem Solving Techniques 👨‍💻
-- 🥇 I’m currently learning Advance Data Structures and Algorithms 📕
-- 🥇 I’m looking to collaborate on GitHub ⚡
-- 🥇 Ask me about Problem Solving Strategies 🎡
-- 🥇 How to reach me : shadmanshariar007@gmail.com 📩
-- 🥇 Fun fact : If I could have any superpower, It would be a Legendary Grandmaster 🏆
+- 🥇 I’m currently working on Advance Problem Solving Techniques
+- 🥇 I’m currently learning Advance Data Structures and Algorithms
+- 🥇 I’m looking to collaborate on GitHub
+- 🥇 Ask me about Problem Solving Strategies
+- 🥇 How to reach me : shadmanshariar007@gmail.com
+- 🥇 Fun fact : If I could have any superpower, It would be a Legendary Grandmaster
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShadmanShariar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shadman.shahriar.007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shadman_shariar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Shadman_Shariar_08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/masterchef_08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Masterpiece_08)  
