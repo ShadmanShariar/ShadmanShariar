@@ -1,4 +1,5 @@
 <h1 align="center">System.out.println("Shadman Shariar");</h1>
+
 <h3 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h3>
 
 - 🥇 Competitive Programming / Android Development / Software Development / Web Development / Machine Learning
@@ -20,6 +21,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar)  
 ![GitHub metrics](https://metrics.lecoq.io/ShadmanShariar)
-  
-
-  
