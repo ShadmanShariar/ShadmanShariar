@@ -21,3 +21,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar)
 ![GitHub metrics](https://metrics.lecoq.io/ShadmanShariar)
+
+<p align="center">
+  <img src="https://github.com/ShadmanShariar/ShadmanShariar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
