@@ -4,7 +4,7 @@
 
 ![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
 
-⦿ Competitive Programming ⦿ Android Development ⦿ Software Development ⦿ Web Development ⦿ Machine Learning
+⦿ Competitive Programming ⦿ Android Development ⦿ Software & Game Development ⦿ Web Development ⦿ Machine Learning
 - 🥇 How to reach me ➔ shadmanshariar007@gmail.com
 - 🥇 I’m currently looking to collaborate on GitHub
 - 🥇 I’m currently working on Advance Problem Solving Techniques
