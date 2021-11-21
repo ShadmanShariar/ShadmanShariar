@@ -3,9 +3,7 @@
 <h3 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h3>
 
 - 🏆 Competitive Programming / Android Development / Software Development / Web Development / Machine Learning 🏆
-- 🥇 How to reach me : shadmanshariar007@gmail.com 🥇
-
-![Profile views](https://gpvc.arturio.dev/ShadmanShariar)
+- 🥇 How to reach me : shadmanshariar007@gmail.com 🥇 ![Profile views](https://gpvc.arturio.dev/ShadmanShariar)
 
 <h3 align="left">Github Badges</h3>
 
