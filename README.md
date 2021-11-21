@@ -2,12 +2,8 @@
 
 <h3 align="center">🏛 Bachelor of Science in Computer Science and Engineering at North South University</h3>
 
-- 🥇 Competitive Programming / Android Development / Software Development / Web Development / Machine Learning
-- 🥇 Skills : JAVA / Python / C++ / C / HTML / CSS / PHP / SQL
-- 🥇 I’m currently working on Advance Problem Solving Techniques
-- 🥇 I’m currently learning Advance Data Structures and Algorithms
-- 🥇 I’m currently looking to collaborate on GitHub
-- 🥇 How to reach me : shadmanshariar007@gmail.com
+- 🏆 Competitive Programming / Android Development / Software Development / Web Development / Machine Learning 🏆
+- 🥇 How to reach me : shadmanshariar007@gmail.com 🥇
 
 ![Profile views](https://gpvc.arturio.dev/ShadmanShariar)
 
