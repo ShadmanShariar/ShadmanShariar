@@ -24,3 +24,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar)
 ![GitHub metrics](https://metrics.lecoq.io/ShadmanShariar)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
