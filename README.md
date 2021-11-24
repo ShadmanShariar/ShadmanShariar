@@ -23,4 +23,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/ShadmanShariar)
