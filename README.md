@@ -1,4 +1,5 @@
 <h1 align="left">🏆</h1>
+
 ![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
 
 🥇Competitive Programming🥇Android Development🥇Software & Game Development🥇Web Development🥇Machine Learning
