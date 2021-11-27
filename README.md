@@ -1,10 +1,6 @@
 ![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
 
-⦿ Competitive Programming ⦿ Android Development ⦿ Software & Game Development ⦿ Web Development ⦿ Machine Learning
-- 🥇 How to reach me ➔ shadmanshariar007@gmail.com
-- 🥇 I’m currently looking to collaborate on GitHub
-- 🥇 I’m currently working on Advance Problem Solving Techniques
-- 🥇 I’m currently learning Advance Object Oriented Programming, Data Structures and Algorithms
+🥇 Competitive Programming 🥇 Android Development 🥇 Software & Game Development 🥇 Web Development 🥇 Machine Learning
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> ![Profile views](https://gpvc.arturio.dev/ShadmanShariar) <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shadmanshariar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 
