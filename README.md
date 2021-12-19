@@ -1,4 +1,4 @@
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shadmanshariar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp; ![Profile views](https://gpvc.arturio.dev/ShadmanShariar)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shadmanshariar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp; ![Profile views](https://gpvc.arturio.dev/ShadmanShariar)🏆
 
 ![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
 
