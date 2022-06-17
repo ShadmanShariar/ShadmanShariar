@@ -8,6 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=github-readme-stats)](https://github.com/ShadmanShariar/Data_Structures_And_Algorithms_In_Java)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar&bg_color=FFFFFF)
