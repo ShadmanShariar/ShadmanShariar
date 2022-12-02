@@ -5,6 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming&href="https://github.com/ShadmanShariar/My_Java_Template_For_Competitive_Programming/blob/master/src/Main.java")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming<a href="https://github.com/ShadmanShariar/My_Java_Template_For_Competitive_Programming/blob/master/src/Main.java">)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar&bg_color=FFFFFF)
