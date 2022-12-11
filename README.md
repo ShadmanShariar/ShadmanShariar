@@ -7,6 +7,3 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShadmanShariar&bg_color=FFFFFF)
-<a href="https://github.com/ShadmanShariar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Shadman+Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+and+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
-</a>
