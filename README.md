@@ -13,7 +13,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadmanShariar&theme=github-light&area=true&hide_border=true&custom_title=Shadman%20Shariar's%20Activity%20Graph">](https://github.com/jgphilpott/github-readme-activity-graph)
 
-<h2 align="left">Profile summary </h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="profile-custom-season.svg" width = "98%">
