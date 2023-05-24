@@ -12,3 +12,21 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadmanShariar&theme=github-light&area=true&hide_border=true&custom_title=Shadman%20Shariar's%20Activity%20Graph">](https://github.com/jgphilpott/github-readme-activity-graph)
+
+<h2 align="left">Profile summary </h2>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000" width="47%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=ShadmanShariar&theme=default&hide_border=true" width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadmanShariar&theme=blueberry&hide_border=true&background=00000000" width="50%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-custom-season.svg" width = "98%">
+    <img src="profile-custom-night-view.svg" width = "98%"/>
+  </picture>
+</div>
+
+<br>
