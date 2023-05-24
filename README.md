@@ -6,7 +6,6 @@
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar&row=1&column=7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
