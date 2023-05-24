@@ -6,9 +6,9 @@
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar&row=1&column=7)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadmanShariar&theme=github-light&area=true&hide_border=true&custom_title=Shadman%20Shariar's%20Activity%20Graph">](https://github.com/jgphilpott/github-readme-activity-graph)
 
