@@ -26,4 +26,4 @@
   </picture>
 </div> <br>
 
-[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadmanShariar&theme=github-light&area=true&hide_border=true&custom_title=Shadman%20Shariar's%20Activity%20Graph">](https://github.com/jgphilpott/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadmanShariar&bg_color=ffffff&color=ff0000&line=0000ff&point=ff0002&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
