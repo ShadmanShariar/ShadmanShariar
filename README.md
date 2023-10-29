@@ -6,6 +6,8 @@
 
 <a href="https://github.com/ShadmanShariar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Shadman+Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
+</a><a href="https://github.com/ShadmanShariar#gh-light-mode-only">
+<img src="https://skillicons.dev/icons?i=linkedin,&theme=light&perline=9" />
 </a>
 
 <!-- Programming languages -->
