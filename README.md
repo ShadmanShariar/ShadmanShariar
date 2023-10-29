@@ -3,10 +3,10 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 </p>
 
-<a href="https://github.com/ShadmanShariar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Shadman+Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
-</a><a href="https://www.linkedin.com/in/shadmanshariar#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/shadmanshariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=linkedin,&theme=light&perline=9" />
+</a><a href="https://github.com/ShadmanShariar">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
 </a>
 
 <!-- Programming languages -->
