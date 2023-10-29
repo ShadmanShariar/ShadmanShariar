@@ -18,10 +18,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar&row=1&column=7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true) -->
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true) -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadmanShariar)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&count_private=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadmanShariar&bg_color=ffffff&color=0074B7&line=0074B7&point=050A30&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
