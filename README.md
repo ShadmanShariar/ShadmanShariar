@@ -9,12 +9,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Shadman Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
 </a>
 
-<!-- Programming languages -->
 <h2>I've worked with</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,python,django,c,cpp,javascript,react,html,css,tailwind,bootstrap,mysql,firebase,git,github,postman,&theme=light&perline=9" />
 </a>
-
 <h2>GitHub Profile Summary</h2>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar&row=1&column=7)
