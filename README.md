@@ -30,4 +30,4 @@
   </picture>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadmanShariar&bg_color=ffffff&color=0074B7&line=0074B7&point=050A30&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadmanShariar&bg_color=ffffff&color=0074B7&line=0074B7&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
