@@ -8,6 +8,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Shadman Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
 </a>
 
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shadmanshariar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/masterchef_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Masterpiece_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+<a href="https://leetcode.com/ShadmanShariar_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/SecondThreadUltimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+</p>
+
 <h2>I've worked with</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,python,django,c,cpp,javascript,react,html,css,tailwind,bootstrap,mysql,firebase,git,github,postman,&theme=light&perline=9" />
