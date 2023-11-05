@@ -10,13 +10,14 @@
 
 <h3 align="left">Competitive Programming Profiles</h3>
 <p align="left">
+ <a href="https://codeforces.com/profile/SecondThreadUltimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ShadmanShariar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/masterchef_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ShadmanShariar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Masterpiece_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShadmanShariar" height="30" width="40" /></a>
 <a href="https://leetcode.com/ShadmanShariar_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShadmanShariar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/SecondThreadUltimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ShadmanShariar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shadmanshariar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ShadmanShariar" height="30" width="40" /></a>
-<a href="https://leetcode.com/ShadmanShariar_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stop-stalk.svg" alt="ShadmanShariar" height="30" width="40" /></a>
- <a href="https://leetcode.com/ShadmanShariar_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stopstalk.svg" alt="ShadmanShariar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/shadmanshariar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shadmanshariar007" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/secondthread8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="secondthread8" height="30" width="40" /></a>
+<a href="https://kaggle.com/shadmanshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadmanshariar" height="30" width="40" /></a>
 </p>
 
 <h2>I've worked with</h2>
