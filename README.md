@@ -5,9 +5,9 @@
 <!-- <a href="https://www.linkedin.com/in/shadmanshariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=linkedin,&theme=light&perline=9" />
 </a> -->
-<a href="https://github.com/ShadmanShariar">
+<!-- <a href="https://github.com/ShadmanShariar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Shadman Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
-</a>
+</a> -->
 
 <h2 align="left">My Competitive Programming Profiles</h2>
 <p align="left">
