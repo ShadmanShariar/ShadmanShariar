@@ -21,7 +21,7 @@
 <a href="https://kaggle.com/shadmanshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadmanshariar" height="30" width="40" /></a>
 </p>
 
-<h2>I've worked with</h2>
+<h2>Technologies I've Worked With</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,python,django,c,cpp,javascript,react,html,css,tailwind,bootstrap,mysql,firebase,git,github,postman,&theme=light&perline=9" />
 </a>
