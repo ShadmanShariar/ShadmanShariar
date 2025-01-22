@@ -23,7 +23,7 @@
 
 <h2>Technologies I've Worked With</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
-<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,idea,azure,docker,jenkins,kafka,rabbitmq,redis,kubernetes,githubactions,gradle,graphql,hibernate,elasticsearch,python,django,pycharm,c,cpp,javascript,nodejs,html,css,tailwind,bootstrap,vscode,mysql,mongodb,git,github,postman,&theme=light&perline=15" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,idea,azure,docker,jenkins,kafka,rabbitmq,redis,kubernetes,githubactions,gradle,graphql,hibernate,elasticsearch,python,django,pycharm,c,cpp,javascript,nodejs,html,css,tailwind,bootstrap,vscode,mysql,mongodb,postgres,sqlite,firebase,git,github,bitbucket,gitlab,eclipse,clion,postman,&theme=light&perline=15" />
 </a>
 <h2>GitHub Profile Summary</h2>
 
