@@ -23,7 +23,7 @@
 
 <h2>Technologies I've Worked With</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
-<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,python,django,c,cpp,javascript,react,html,css,tailwind,bootstrap,mysql,firebase,git,github,postman,&theme=light&perline=9" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,python,django,c,cpp,javascript,react,html,css,tailwind,bootstrap,mysql,mongodb,git,github,postman,&theme=light&perline=9" />
 </a>
 <h2>GitHub Profile Summary</h2>
 
