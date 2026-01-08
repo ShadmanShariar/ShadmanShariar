@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming) -->
 
-<div align="center">
+<!-- <div align="center">
       <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://github-readme-stats.vercel.app/api?username=ShadmanShariar&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000" width="47%" />
@@ -40,6 +40,6 @@
     <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=ShadmanShariar&theme=default&hide_border=true" width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadmanShariar&theme=blueberry&hide_border=true&background=00000000" width="50%" />
   </picture>
-</div>
+</div> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadmanShariar&bg_color=ffffff&color=0074B7&line=0074B7&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
