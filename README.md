@@ -25,11 +25,11 @@
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
 <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,idea,azure,docker,jenkins,kafka,rabbitmq,redis,kubernetes,githubactions,gradle,graphql,hibernate,elasticsearch,python,django,pycharm,c,cpp,javascript,nodejs,html,css,tailwind,bootstrap,vscode,mysql,mongodb,postgres,sqlite,firebase,php,selenium,git,github,bitbucket,gitlab,eclipse,clion,postman,webstorm,aws,gcp,&theme=light&perline=15" />
 </a>
-<h2>GitHub Profile Summary</h2>
+<!-- <h2>GitHub Profile Summary</h2>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShadmanShariar&row=1&column=7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanShariar&layout=compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShadmanShariar&repo=My_Java_Template_For_Competitive_Programming) -->
 
 <div align="center">
       <picture>
