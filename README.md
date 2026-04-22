@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hello 👋🏻 This is Shadman Shariar;Competitive+Programmer+%7C+CS+Student+%7C+Software+Engineer;Data+structures+%7C+Algorithms+%7C+Object+Oriented+Programming" alt="Typing SVG" />
 </a> -->
 
-<h2 align="left">Competitive Programming Profiles</h2>
+<!-- <h2 align="left">Competitive Programming Profiles</h2>
 <p align="left">
  <a href="https://codeforces.com/profile/SecondThreadUltimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ShadmanShariar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/masterchef_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ShadmanShariar" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://www.hackerearth.com/@shadmanshariar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shadmanshariar007" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/secondthread8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="secondthread8" height="30" width="40" /></a>
 <a href="https://kaggle.com/shadmanshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadmanshariar" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h2>Technologies I've Worked With</h2>
 <a href="https://github.com/ShadmanShariar#gh-light-mode-only">
