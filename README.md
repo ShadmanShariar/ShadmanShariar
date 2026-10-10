@@ -77,7 +77,7 @@
   </a>
 </p>
 
-**Programming profiles**
+**Programming Profiles**
 
 [Codeforces](https://codeforces.com/profile/SecondThreadUltimate) · [CodeChef](https://www.codechef.com/users/masterchef_08) · [LeetCode](https://leetcode.com/ShadmanShariar_007/) · [HackerRank](https://www.hackerrank.com/Masterpiece_08) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shadmanshariar007) · [HackerEarth](https://www.hackerearth.com/@shadmanshariar007) · [Topcoder](https://www.topcoder.com/members/secondthread8)
 
