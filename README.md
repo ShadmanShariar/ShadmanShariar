@@ -77,9 +77,31 @@
   </a>
 </p>
 
-**Programming Profiles**
+## Programming Profiles
 
-[Codeforces](https://codeforces.com/profile/SecondThreadUltimate) · [CodeChef](https://www.codechef.com/users/masterchef_08) · [LeetCode](https://leetcode.com/ShadmanShariar_007/) · [HackerRank](https://www.hackerrank.com/Masterpiece_08) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shadmanshariar007) · [HackerEarth](https://www.hackerearth.com/@shadmanshariar007) · [Topcoder](https://www.topcoder.com/members/secondthread8)
+<p align="center">
+  <a href="https://codeforces.com/profile/SecondThreadUltimate">
+    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/masterchef_08">
+    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/ShadmanShariar_007/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/Masterpiece_08">
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shadmanshariar007">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerearth.com/@shadmanshariar007">
+    <img src="https://img.shields.io/badge/HACKEREARTH-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
+  <a href="https://www.topcoder.com/members/secondthread8">
+    <img src="https://img.shields.io/badge/TOPCODER-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" />
+  </a>
+</p>
 
 ---
 
